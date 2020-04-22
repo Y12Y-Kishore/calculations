@@ -8,7 +8,13 @@ def add():
 def sub():
     z=x-y
     print(z)
+def mul():
+    z=x*y
+    print(z)
+    
 
 
 add()
 sub()
+mul()
+

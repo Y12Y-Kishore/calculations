@@ -1,0 +1,11 @@
+x=int(input("Enter value"))
+y=int(input("Enter value"))
+
+
+def add():
+    z=x+y
+    print(z)
+
+
+
+add()
